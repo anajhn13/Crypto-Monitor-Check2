@@ -6,9 +6,11 @@ App Android que consulta o preço da Bitcoin no Mercado Bitcoin e exibe formatad
 Imagens do projeto: 
 
 Zerado: 
+
 ![zerado](https://github.com/user-attachments/assets/aa07e7b4-754b-4236-847c-1cadd7c86405)
 
 Atualizado: 
+
 ![atualizado](https://github.com/user-attachments/assets/2d4eb4a7-107f-45c4-9250-ca7fba75d9cc)
 
 Fluxo do projeto: 
