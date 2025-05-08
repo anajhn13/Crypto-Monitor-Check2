@@ -29,6 +29,7 @@ Atualiza os TextViews (lbl_value e lbl_date) na tela.
 Se falhar, mostra uma mensagem de erro via Toast.
 
 Tecnologias usadas: 
+
 Retrofit + Gson: Para chamadas HTTP e conversão de JSON em objetos Kotlin.
 Coroutins: Para chamadas assíncronas (evitar bloqueio da UI).
 SimpleDateFormat & NumberFormat: Para formatação de data e valor monetário.
